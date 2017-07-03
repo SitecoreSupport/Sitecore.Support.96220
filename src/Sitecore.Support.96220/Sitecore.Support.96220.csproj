@@ -60,7 +60,6 @@
     <Compile Include="Shell\Applications\Install\Dialogs\AddItemSourceForm.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.96220.config" />
     <Content Include="sitecore\shell\Override\AddFileSource.xml" />
     <Content Include="sitecore\shell\Override\AddItemSource.xml" />
   </ItemGroup>
